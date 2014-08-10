@@ -215,5 +215,4 @@ pip-log.txt
 .mr.developer.cfg
 *.class
 *.class
-*.class
-~/IndoorLocation/Codes/Server/nono/WebRoot/WEB-INF/
+**/*.class
