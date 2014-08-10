@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B6C25DB-49B1-455D-A063-790649011832</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IndoorLocationForIOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC82FF3A-DB79-46B8-B8D3-B6BB7924CC10</key>
+		<string>https://github.com/SuperHulk/IndoorLocation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Codes/IOS/IndoorLocationForIOS/IndoorLocationForIOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC82FF3A-DB79-46B8-B8D3-B6BB7924CC10</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SuperHulk/IndoorLocation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC82FF3A-DB79-46B8-B8D3-B6BB7924CC10</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC82FF3A-DB79-46B8-B8D3-B6BB7924CC10</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IndoorLocation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
