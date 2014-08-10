@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="nono"
+  id="myeclipse.1407607574071"
+  context-root="/nono"
+  j2ee-spec="5.0"
+  archive="nono.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

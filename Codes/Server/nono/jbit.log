@@ -1,0 +1,12 @@
+2014-08-10 02:34:22 JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2014-08-10 02:34:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2014-08-10 02:34:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2014-08-10 02:34:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2014-08-10 02:34:22 JakartaCommonsLoggingImpl.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2014-08-10 02:34:22 JakartaCommonsLoggingImpl.java DEBUG Opening JDBC Connection
+2014-08-10 02:34:23 JakartaCommonsLoggingImpl.java DEBUG Created connection 421539177.
+2014-08-10 02:34:23 JakartaCommonsLoggingImpl.java DEBUG Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@19202d69]
+2014-08-10 02:34:23 JakartaCommonsLoggingImpl.java DEBUG ==>  Preparing: insert into t_store_ibeacons (storeno, ibeaconid) values (?, ?) 
+2014-08-10 02:34:23 JakartaCommonsLoggingImpl.java DEBUG ==> Parameters: 000000000000001(String), abcde(String)
+2014-08-10 02:34:23 JakartaCommonsLoggingImpl.java DEBUG <==    Updates: 1
+2014-08-10 02:34:23 JakartaCommonsLoggingImpl.java DEBUG Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@19202d69]
