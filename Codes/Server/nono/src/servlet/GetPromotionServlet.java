@@ -62,17 +62,16 @@ public class GetPromotionServlet extends HttpServlet {
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 
-		
-		
-		
-		
 		SqlSession sqlSession = MySqlSessionFactory.getSqlSession();
 		String ibeaconid = request.getParameter("ibeaconid");
 		String storeno = request.getParameter("storeno");
 
 		TProminfoIbeaconsExample tpiexampe = new TProminfoIbeaconsExample();
-		tpiexampe.or().andIbeaconidEqualTo(ibeaconid)
-				.andStorenoEqualTo(storeno);
+		tpiexampe.or().andStorenoEqualTo(storeno);
+		if (ibeaconid == null || "".equals(ibeaconid.trim())) {
+			tpiexampe.or().andIbeaconidEqualTo(ibeaconid);
+		}
+
 		TProminfoIbeaconsMapper tpimapper = sqlSession
 				.getMapper(TProminfoIbeaconsMapper.class);
 
